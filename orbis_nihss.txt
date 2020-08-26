@@ -1,0 +1,32 @@
+NIHSS SCORE
+
+1a Bewußtseinslage: #[LWach=0, Benommen=1, Somnolent=2, Koma=3]Bewußtseinslage#
+
+1b Orientierung #[Lbeide Fragen richtig=0, eine Frage richtig=1, keine Frage richtig=2]Orientierung#
+
+1c Befolgung von Aufforderungen #[Lbeide Aufgaben richtig=0, eine Aufgabe richtig=1, keine Aufgabe richtig=2]Befolgung von  Aufforderungen#
+
+2 Blickbewegungen #[Lnormal=0, partielle Blickparese=1, komplette Blickparese=2]Blickbewegungen#
+
+3 Gesichtsfeld #[Lkeine Einschränkung=0, partielle Hemianopsie=1, komplette Hemianopsie=2, bilaterale Hemianopsie=3]Gesichtsfeld#
+
+4 Fazialisparese #[Lkeine=0, geringe Parese=1, partielle Parese=2, vollständige Parese=3]Fazialisparese#
+
+5 Motorik Arme #[Lkein Absinken=0, Absinken=1, Anheben gegen Schwerkraft möglich=2, Kein (aktives) Anheben gegen die Schwerkraft=3, Keine Bewegung=4]Motorik Arme#
+
+6 Motorik Beine #[Lkein Absinken=0, Absinken=1, Aktive Bewegung gegen Schwerkraft=2, Kein Anheben gegen die Schwerkraft=3, Keine Bewegung=4]Motorik Beine#
+
+7 Extremitätenataxie #[LFehlend=0, in einer Extremität vorhanden=1, in zwei Extremitäten=2]Extremitätenataxie#
+
+8 Sensibilität #[LNormal=0, Leichter bis mittelschwerer Sensibilitätsverlust=1, Schwerer bis vollständiger Sensibilitätsverlust=2]Sensibilität#
+
+9 Sprache #[LKeine Aphasie=0, leichte Aphasie=1, schwere Aphasie=2, Globale Aphasie=3]Sprache#
+
+10 Dysarthrie #[LKeine Dysarthrie=0, Leichte Dysarthrie=1, Schwere Dysarthrie=2]Dysarthrie#
+
+11 Neglect #[LKeine=0, Visuelle 'K' taktile 'K' auditive oder personenbezogene Unaufmerksamkeit=1, Schwere halbseitige Unaufmerksamkeit oder halbseitige Unaufmerksamkeit in mehr als einer Qualität=2]Neglect#
+
+
+
+
+
