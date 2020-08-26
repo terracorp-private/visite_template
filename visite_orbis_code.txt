@@ -1,0 +1,36 @@
+Beschwerden:
+^Der Patient^~DiePatientin~ klagt über
+
+- #Schmerzen# (OPQRST assessment)
+	- Onset (akut aufgetrettenen / chronischen) @Schmerzen@ 
+	- Provocation, Palliation (die in Ruhe / bei der Bewegung)
+	- Quality (brennend / stechend / pochend)
+	- Region, Radiation (der Schmerz strahlt in XXX aus)
+	- Severity (mit NRS von XXX)
+	- Time (die Schmerzen bestehen seit XXX)
+
+- Übelkeit
+
+- Erbrechen
+
+
+
+
+Untersuchung:
+
+^der Patient^~die Patientin~ ist #vigilanz#(wach / somnolen / soporös /im Koma °I-IV) #Orientierung#(allseits orientiert / unscharf orientiert
+/ desorientiert)
+
+
+
+
+
+
+
+Procedere:
+
+- es wurde mit ^dem Patienten^~der Patientin~ die beforstehende #Entlassung #Untersuchung #Therapie ausführlich besprochen.
+
+
+
+
